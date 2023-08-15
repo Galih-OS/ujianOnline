@@ -6,4 +6,4 @@ ada 2 file *.zip
 
 berjalan di versi php 4 -5
 ujina online ini saya kembangkan dengan menambahkan fitur soal esai, dengan cara kerja membuat kunci jawaban terlebih dahulu.
-cara kerja nya membanya setiap kata
+cara kerja nya membaca setiap kata
